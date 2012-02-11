@@ -1,8 +1,8 @@
 // ==UserScript==
+// @version        1.1
 // @name           Improve Twitter Fly
-// @version        1.0
-// @namespace      xPaw
-// @description    960px content, tweets on the left side
+// @description    Enhance your #TwitterFly experience
+// @namespace      http://xpaw.ru/twitterfly-tweaks/
 // @match          https://twitter.com/*
 // @run-at         document-end
 // ==/UserScript==
